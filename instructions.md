@@ -1,3 +1,11 @@
+## Demo version · Free unlimited play for now
+
+You and your guests can play DJ Marcus J’s Pinball Machine for free with no time limit during the demo period.
+
+In the next few days, the snippet will switch to a 10-minute trial. When the trial ends, the machine will stop accepting new play until it’s activated.
+
+A one-time payment of $5.00 will unlock unlimited play for you and your guests in the world where you activate it. There’s no subscription or per-player fee.
+
 # DJ MARCUS J’S PINBALL MACHINE
 
 ## Play on Quest
@@ -25,4 +33,5 @@ Click the cabinet buttons or use **A** for the left flipper and **D** for the ri
 Add a **BS Snippet** component to an empty Unity GameObject at the origin and use the slug `dj-marcus-j-pinball-machine` once the listing is available. Set **position** to the floor point beneath the machine and **rotation** to its heading around the Y axis. Leave clear space in front of both buttons and the plunger. Turn **drop-targets** off if you prefer the open right-side playfield. Place one machine per world. If the latest build does not appear, leave and rejoin the world.
 
 For release hosting and version updates, see the included Readme.
+
 
